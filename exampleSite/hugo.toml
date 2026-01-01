@@ -9,7 +9,7 @@ defaultContentLanguage = "en"
 theme = "hugo-scroll"
 
 # The browser tab name
-title = "Jane Doe - Nutrition Coach & Chef Consultant"
+title = "Protec-Action - Security Agency"
 
 # In order to add version information in the page's footer set to true.
 # enableGitInfo = true
@@ -38,10 +38,10 @@ enableEmoji = true
     # Another "title" :-). This one is used as the site_name on the Hugo's internal
     # opengraph structured data template.
     # See https://ogp.me/ and https://gohugo.io/templates/internal#open-graph.
-    title = "Jane Doe - Nutrition Coach & Chef Consultant"
+    title = "Protec-Action - Security Agency"
 
     # The "description" of your website. This is used in the meta data of your generated html.
-    description = "Nutrition Coach & Chef Consultant"
+    description = "Security Agency operating in Montreal and Gatineau"
 
     # Show a menu of languages available
     language_menu = true
@@ -65,7 +65,7 @@ enableEmoji = true
     image_options = "webp q90 lanczos photo"
 
     # Use "page_title | site_title" for <title> tags
-    # e.g. <title>Legal | Jane Doe - Nutrition Coach & Chef Consultant</title>
+    # e.g. <title>Legal | Protec-Action - Security agency in Montreal and Gatineau</title>
     combine_page_and_site_title = false
 
     [params.footer]
