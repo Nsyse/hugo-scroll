@@ -31,7 +31,7 @@ enableEmoji = true
 
     # When set true, it creates a visual guard (partially transparent rounded box), preventing non-ideal background images from interfering with title/description headings
     # Ideal images are homogenous around the centre and contrasting to the text.
-    # see CSS classes: .title-and-description-guard, .blog-title, .blog-description
+    # see CSS classes: .title-and-description-guard, .company-title, .blog-description
     # see _index.md header_headline and header_subheadline
     title_guard = false
 
